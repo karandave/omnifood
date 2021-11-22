@@ -1,0 +1,92 @@
+/*******
+36 (2.25rem), 
+34 (2.125rem), 
+32 (2rem), 
+30 (1.875rem), 
+28 (1.75rem), 
+26 (1.625rem), 
+24 (1.5rem), 
+22(1.375rem), 
+20(1.25rem), 
+18 (1.125rem), 
+16(1rem), 
+14(0.875rem),
+********/
+
+
+html body{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1.75rem;
+margin: 0;
+padding: 0;
+line-height: 20px;
+color: #000000;
+
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    font-size: 2.25rem;
+    font-weight: 500;
+    margin: 30px 0;
+}
+h2{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.125rem;
+    font-weight: 500;
+    margin: 30px 0;
+
+}h3{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 30px 0;
+
+}
+h4{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.875rem;
+    font-weight: 500;
+    margin: 30px 0;
+
+}
+h5{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.75rem;
+    font-weight: 500;
+    margin: 30px 0;
+
+}
+h6{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.625rem;
+    font-weight: 500;
+    margin: 30px 0;
+
+}
+
+p{font-size: 1rem; margin: 15px 0;}
+
+ul{ padding: 0; margin: 0;}
+
+ul li{ list-style: none;}
+
+a{ color: #oooooo;}
+a:hover{ color: #aa1923;}
+
+.logo img{ float: left; width: 100%;}
+header{ background-color: #fdf2e9;}
+section{float: left; width: 100%;}
+.banner-img img{ float: left; width: 100%;}
+.banner{background-color: #fdf2e9;}
+.navbar{margin-bottom:0;}
+.banner-img h1{float:left; width:100%; font-size: 5rem; font-weight: 700;}
+.banner-img{ margin: 45px 0;}
+.banner-img p{ font-size: 2rem; text-align: justify; line-height: 1.5; float: left; }
+a.start-well{background-color: #e67e22 ; padding:10px 20px; border-radius: 5px; color: #fff; margin: 20px 20px 20px 0; float: left; text-decoration:none;}
+a.learn-more {background-color: #ffffff ; padding:10px 20px; border-radius: 5px; color: #a1a1a1; margin: 20px 20px 20px 0; float: left; text-decoration:none;}
